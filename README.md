@@ -24,4 +24,3 @@ Este taller ha sido elaborado por **Jesús Eduardo Lugo Vela** y **Joshua Jesús
 <section id="section-footer">
   <p>Hecho con ❤️ por <a href="https://github.com/aaaimx">AAAIMX</a> 😊</p>
 </section>
-
