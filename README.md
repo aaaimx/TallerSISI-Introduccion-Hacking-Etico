@@ -12,7 +12,7 @@ Este taller ha sido elaborado por **Jesús Eduardo Lugo Vela** y **Joshua Jesús
   <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-### Jesús Eduardo Lugo Vel
+### Jesús Eduardo Lugo Vela
 
 <a href="https://www.linkedin.com/in/jesus-lugo-vela-1778a2260/">
   <img align="left" alt="Jesús LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
