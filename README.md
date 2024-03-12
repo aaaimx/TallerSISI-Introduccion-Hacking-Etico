@@ -1,7 +1,7 @@
 # TallerSISI-Introduccion-Hacking-Etico
 ----
 > [!IMPORTANT]
-> Este taller es mas que una introducción, siempre se autodidacta y busca querer siempre saber más, gracias por haber confisdo en nosotros para brindarte ayuda a conocer o enamorarte del Hacking Etico :) 
+> Este taller ha sido una introducción. Siempre se autodidacta y busca querer saber más, gracias por haber confiado en nosotros para brindarte ayuda a conocer o enamorarte del **Hacking Etico** :) 
 ## Contributors ✒
 
 <section id="section-joshua">
