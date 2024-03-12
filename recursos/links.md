@@ -1,4 +1,4 @@
 # Aqui encontraras links a recursos vistos o compartidos en el taller
 
 ### **Link de la maquina Blue:**
-[![Google Drive](https://img.shields.io/badge/Google_Drive-%234285F4.svg?logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1vMszZFJpmULp_l60NU7WaUla0JIw7qi9/view)
+[Maquina Blue][![Google Drive](https://img.shields.io/badge/Google_Drive-%234285F4.svg?logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1vMszZFJpmULp_l60NU7WaUla0JIw7qi9/view)
