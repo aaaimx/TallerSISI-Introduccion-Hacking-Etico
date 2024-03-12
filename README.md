@@ -27,5 +27,5 @@
 
 <br><br>
 <section id="section-footer">
-  <p>Hecho con ❤️ por <a href="https://github.com/aaaimx">AAAIMX</a> 😊</p>
+  <p>Hecho con ❤️ por miembors de la <a href="https://github.com/aaaimx">AAAIMX</a> 😊</p>
 </section>
