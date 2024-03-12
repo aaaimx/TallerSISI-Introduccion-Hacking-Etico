@@ -1,6 +1,8 @@
 # TallerSISI-Introduccion-Hacking-Etico
 Este taller ha sido elaborado por **Jesús Eduardo Lugo Vela** y **Joshua Jesús Avilés Interián.**
 
+## Contributors ✒
+
 <section id="section-joshua">
   <h3>Joshua Jesús Avilés Interián</h3>
   <a href="https://www.linkedin.com/in/joshaviles/">
