@@ -4,7 +4,7 @@ Este taller ha sido elaborado por **Jesús Eduardo Lugo Vela** y **Joshua Jesús
 ## Contributors ✒
 
 <section id="section-joshua">
-  <p>Joshua Jesús Avilés Interián</p>
+  <p><b><i>Joshua Jesús Avilés Interián</i></b></p>
   <a href="https://www.linkedin.com/in/joshaviles/">
     <img align="left" alt="Joshua's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -14,7 +14,7 @@ Este taller ha sido elaborado por **Jesús Eduardo Lugo Vela** y **Joshua Jesús
 </section>
 <br><br>
 <section id="section-jesus">
-  <h3>Jesús Eduardo Lugo Vela</h3>
+  <p><b><i>Jesús Eduardo Lugo Vela</i></b></p>
   <a href="https://www.linkedin.com/in/jesus-lugo-vela-1778a2260/">
     <img align="left" alt="Jesús LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
