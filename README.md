@@ -14,7 +14,7 @@
     <img align="left" alt="Joshua's Github" width="24px" src="https://www.svgrepo.com/show/788/folder.svg" />
   </a>
 <br><br>
-<p>Si tienes problemas al actualizar Kali Linux, revisa el siguiente repositorio: <a href="https://github.com/JESUSLUG/Kali-Update-Problems/">"Problemas de actualización de Kali"</a>.</p>
+<p>Si tienes problemas al actualizar Kali Linux o instalando herramientas, revisa el siguiente repositorio: <a href="https://github.com/JESUSLUG/Kali-Update-Problems/">"Problemas de actualización de Kali"</a>.</p>
 <br><br>
 <p><b><i>DIA 2 </b></p>
  <img align="left" width="24px" src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg" /></i>
