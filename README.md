@@ -5,9 +5,8 @@
 
 
  <p><b><i>DIA 1</i></b></p>
-
-  <a href="https://github.com/JJoosh/Como-instalar-Kali-LInux/">
 <p>Revisen la carpeta 'DÍA 1', en la cual está la presentación. El siguiente ícono de GitHub te lleva al repositorio que les servirá de apoyo para lo visto ese día "Como instalar Kali Linux"</p>
+  <a href="https://github.com/JJoosh/Como-instalar-Kali-LInux/">
     <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 <br><br>
