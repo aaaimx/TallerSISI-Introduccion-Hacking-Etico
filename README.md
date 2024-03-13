@@ -1,4 +1,4 @@
-# TallerSISI-Introduccion-Hacking-Etico
+![image](https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/assets/116361712/db6bbe54-51e8-40d3-a9ad-5602733b7543)# TallerSISI-Introduccion-Hacking-Etico
 ----
 > [!IMPORTANT]
 > Este taller ha sido una introducción. Siempre se autodidacta y busca querer saber más, gracias por haber confiado en nosotros para brindarte ayuda a conocer o enamorarte del **Hacking Etico** :)
@@ -11,7 +11,7 @@
   </a>
 
    <a href="https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/tree/main/Dia%201">
-    <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="Joshua's Github" width="24px" src="https://www.svgrepo.com/show/788/folder.svg" />
   </a>
 <br><br>
 
