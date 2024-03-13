@@ -5,7 +5,7 @@
 
 
  <p><b><i>DIA 1</i></b></p>
-<p>Revisen la carpeta 'DÍA 1', en la cual está la presentación. El siguiente ícono de GitHub te lleva al repositorio que les servirá de apoyo para lo visto ese día "Como instalar Kali Linux"</p>
+<p>Revisen la carpeta 'DÍA 1', en la cual está la presentación. El siguiente ícono de GitHub te lleva al repositorio que les servirá de apoyo para lo visto ese día <a href="https://github.com/JJoosh/Como-instalar-Kali-LInux/">"Como instalar Kali Linux"</a>.</p>
   <a href="https://github.com/JJoosh/Como-instalar-Kali-LInux/">
     <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
@@ -13,6 +13,10 @@
    <a href="https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/tree/main/Dia%201">
     <img align="left" alt="Joshua's Github" width="24px" src="https://www.svgrepo.com/show/788/folder.svg" />
   </a>
+
+<p>Si tienes problemas al actualizar Kali Linux, revisa el siguiente repositorio: <a href="https://github.com/JESUSLUG/Kali-Update-Problems/">"Problemas de actualización de Kali"</a>.</p>
+
+  
 <br><br>
 
 <p><b><i>DIA 2</i></b></p>
