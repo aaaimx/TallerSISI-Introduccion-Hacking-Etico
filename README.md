@@ -1,4 +1,4 @@
-![image](https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/assets/116361712/db6bbe54-51e8-40d3-a9ad-5602733b7543)# TallerSISI-Introduccion-Hacking-Etico
+# TallerSISI-Introduccion-Hacking-Etico
 ----
 > [!IMPORTANT]
 > Este taller ha sido una introducción. Siempre se autodidacta y busca querer saber más, gracias por haber confiado en nosotros para brindarte ayuda a conocer o enamorarte del **Hacking Etico** :)
