@@ -9,6 +9,10 @@
   <a href="https://github.com/JJoosh/Como-instalar-Kali-LInux/">
     <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
+
+   <a href="https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/tree/main/Dia%201">
+    <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
 <br><br>
 
 
