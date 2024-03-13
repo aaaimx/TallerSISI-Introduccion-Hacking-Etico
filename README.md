@@ -13,7 +13,7 @@
    <a href="https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/tree/main/Dia%201">
     <img align="left" alt="Joshua's Github" width="24px" src="https://www.svgrepo.com/show/788/folder.svg" />
   </a>
-
+<br><br>
 <p>Si tienes problemas al actualizar Kali Linux, revisa el siguiente repositorio: <a href="https://github.com/JESUSLUG/Kali-Update-Problems/">"Problemas de actualización de Kali"</a>.</p>
 
   
