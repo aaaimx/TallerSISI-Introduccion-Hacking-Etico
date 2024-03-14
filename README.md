@@ -29,7 +29,6 @@
 <br><br>
 
 <p><b><i>DIA 3 </b></p>
- <img align="left" width="24px" src="https://github.com/bwks/vendor-icons-svg/blob/master/nmap-logo.svg" /></i>
 <p>Revisen la carpeta 'DÍA 3', en la cual está la presentación. El siguiente ícono de GitHub te lleva al repositorio que les servirá de apoyo para lo visto ese día <a href="https://github.com/JESUSLUG/MetasploitBasics/">"Comandos Basicos de Metasploit"</a>.</p>
   <a href="https://github.com/JESUSLUG/MetasploitBasics/">
     <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
