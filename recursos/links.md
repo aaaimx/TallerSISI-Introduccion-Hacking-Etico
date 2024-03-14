@@ -48,7 +48,7 @@ nmap -sCV -p21 127.0.0.1
 
 Si todo lo hicimos bien nos debería mostrar algo como esto:
 
-![[Pasted image 20240306195151.png]]
+
 
 Fíjense que no esta sacando que se puede ingresar como anónimo porque cuando en nmap lanza el para para probar scripts lo que hace es que prueba para ver si se puede iniciar sesion anónimamente normalmente.
 
@@ -70,7 +70,7 @@ En este caso hemos hecho una fuerza bruta para adivinar la contraseña del usuar
 
 si todo les salió bien se debería ver algo así:
 
-![[Pasted image 20240306200116.png]]
+
 
 En la imagen se muestra el usuario y la contraseña encontrada para el dicho usuario
 
@@ -92,7 +92,7 @@ nmap -sCV -p21 127.0.0.1
 
 y nos mostrar algo como esto:
 
-![[Pasted image 20240306200753.png]]
+
 Como les comentaba en este caso, nos esta mostrando que el servidor se puede ingresar como anónimo y para hacerlo hacemos:
 
 ```bash
