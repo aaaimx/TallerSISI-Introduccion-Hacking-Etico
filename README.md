@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > Este taller ha sido una introducción. Siempre se autodidacta y busca querer saber más, gracias por haber confiado en nosotros para brindarte ayuda a conocer o enamorarte del **Hacking Etico** :)
----
+
 <br>
  <p><b><i>DIA 1</i></b></p>
 <p>Revisen la carpeta 'DÍA 1', en la cual está la presentación. El siguiente ícono de GitHub te lleva al repositorio que les servirá de apoyo para lo visto ese día <a href="https://github.com/JJoosh/Como-instalar-Kali-LInux/">"Como instalar Kali Linux"</a>.</p>
@@ -38,10 +38,8 @@
    <a href="https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/tree/main/Dia%203">
     <img align="left" alt="Joshua's Github" width="24px" src="https://www.svgrepo.com/show/788/folder.svg" />
   </a>
-  <br>
+  <br><br>
 
-  ____
-  
 ## Contributors ✒
 
 <section id="section-joshua">
