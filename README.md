@@ -34,10 +34,11 @@
   <a href="https://github.com/JESUSLUG/MetasploitBasics/">
     <img align="left" alt="Joshua's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-
    <a href="https://github.com/aaaimx/TallerSISI-Introduccion-Hacking-Etico/tree/main/Dia%203">
     <img align="left" alt="Joshua's Github" width="24px" src="https://www.svgrepo.com/show/788/folder.svg" />
   </a>
+ <br><br>
+ <p>Si estas interesado en proteger tu huella digital, te recomendamos hecharle un vistazo a esta repo <a href="https://github.com/JJoosh/Enrutar-trafico-por-tor/">"Enrutar tu trafico por la red TOR"</a>.</p>
   <br><br>
 
 ## Contributors ✒
